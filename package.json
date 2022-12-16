@@ -23,7 +23,6 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.8.0",
     "mongoose-auto-increment": "^5.0.1",
-    "p-defer": "^4.0.0",
     "puppeteer": "^19.4.0",
     "validator": "^13.7.0"
   }

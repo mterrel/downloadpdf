@@ -1,5 +1,5 @@
 const {join} = require('path');
-console.log("\n", process.env, "\n");
+throw new Error(JSON.stringify(process.env, null, 2));
 process.env.npm_config_loglevel = "notice";
 
 /**
